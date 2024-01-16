@@ -1,0 +1,2 @@
+SkyrimSE.exe+E014EC
+*NPC leaving a building collided with something. Either isolate and disable the offending object, or ignore.*
