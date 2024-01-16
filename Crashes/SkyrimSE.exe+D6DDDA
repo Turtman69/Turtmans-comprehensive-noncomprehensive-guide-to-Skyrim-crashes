@@ -1,0 +1,2 @@
+SkyrimSE.exe+D6DDDA
+*Possible mesh or texture corruption. First, ensure Pagefile. If crashes continue look in stack for any meshes or textures being called out.*
